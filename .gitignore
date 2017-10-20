@@ -26,3 +26,6 @@ hs_err_pid*
 .gitignore
 .idea/workspace.xml
 out/
+.idea/artifacts/MD5_jar.xml
+src/META-INF/
+.idea/artifacts/
