@@ -122,9 +122,16 @@ public class MD5
     {
         System.out.println(getMD5("zkyzkyzky123467890"));
         String zkyzkyzky = getMD5("zkyzkyzky");
-
         System.out.println(zkyzkyzky);
+        System.out.println("1: = "+getMD5("1"));
 
+        /**
+         * 1: = xMpCOKC5I4INzFCab3WEmw==
+         *
+         * C4CA4238A0B923820DCC509A6F75849B
+         *
+         * C4CA4238A0B923820DCC509A6F75849B
+         */
     }
 
 }
